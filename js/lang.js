@@ -28,6 +28,8 @@ langEn.addEventListener('click', ()=>{
     document.querySelector('.animal').innerHTML = 'Website for teaching children. <br> HTML/CSS/JavaScript'
     document.querySelector('.weather').innerHTML = 'Weather website. <br> HTML/CSS/JavaScript'
     document.querySelector('.mealPlan').innerHTML = 'Meal Plan <br> HTML/CSS/JavaScript/React/Node.js'
+    document.querySelector('.fairyForest').innerHTML = 'Fairy Forest <br> HTML/CSS/JavaScript/React/Node.js'
+    document.querySelector('.recipeSearch').innerHTML = 'Recipe Search <br> HTML/CSS/JavaScript/React'
 
 })
 
@@ -61,4 +63,6 @@ document.querySelector('html').lang = 'ru';
     document.querySelector('.animal').innerHTML = 'Сайт для обучения детей. <br> HTML/CSS/JavaScript'
     document.querySelector('.weather').innerHTML = 'Сайт погоды. <br> HTML/CSS/JavaScript'
     document.querySelector('.mealPlan').innerHTML = 'Список покупок. <br> HTML/CSS/JavaScript/React/Node.js'
+    document.querySelector('.fairyForest').innerHTML = 'Волшебный лес <br> HTML/CSS/JavaScript/React/Node.js'
+    document.querySelector('.recipeSearch').innerHTML = 'Поиск рецептов <br> HTML/CSS/JavaScript/React'
 })
